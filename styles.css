@@ -3,6 +3,7 @@
             background-color: lightblue;
             color: blueviolet;
             padding: 50px;
+	        border-top-width: 2px;
             border: 2px solid black;
             width: 90px;
         }
