@@ -4,13 +4,14 @@
             color: blueviolet;
             padding: 50px;
             border: 2px solid black;
-	        border-top-width: 2px;
             width: 90px;
         }
-        .all{
+
+.all{
+	        border-top-width: 2px;
             position: fixed;
             top: 50%;
             left: 50%;
             margin-top: -50px;
             margin-left: -100px;
-        }
+}
