@@ -1,18 +1,15 @@
 /*  your css code here. If applicable */
 .center{
-            background-color: lightblue;
-            color: blueviolet;
-            padding: 50px;
-	        border-top-width: 2px;
-            border: 2px solid black;
-            width: 90px;
-        }
+	background-color:lightblue;
+	border:2px solid black;
+	padding:70px;
+	color: purple;
+	font-weight:bold;
+}
 
 .all{
-	        border-top-width: 2px solid black;
-            position: fixed;
-            top: 50%;
-            left: 50%;
-            margin-top: -50px;
-            margin-left: -100px;
+/* 	background-color:pink; */
+	padding:200px;
+	display:flex;
+	justify-content:center;
 }
