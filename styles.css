@@ -10,7 +10,7 @@
 
 .all{
 /* 	background-color:pink; */
-	border-top-width:2px solid black;
+	border-top-width:2px;
 	padding:200px;
 	display:flex;
 	justify-content:center;
