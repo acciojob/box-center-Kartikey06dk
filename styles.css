@@ -1,17 +1,17 @@
-/*  your css code here. If applicable */
-.center{
-/* 	border-top-width:2px solid black; */
+div{
 	background-color:lightblue;
-	border:2px solid black;
-	padding:70px;
-	color: purple;
-	font-weight:bold;
+	border: 2px solid black;
+	color:purple;
+	weight:bold;
+	display: flex;
+    justify-content: center;
+	height: 200px;
+	width:50%;
+	text-algin:center;
+
 }
 
-.all{
-/* 	background-color:pink; */
-	border-top-width:2px;
-	padding:200px;
-	display:flex;
-	justify-content:center;
+body{
+	display: flex;
+    justify-content: center;
 }
